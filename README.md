@@ -1,1 +1,1 @@
-# react-upload
+Upload component created in react
